@@ -10,6 +10,13 @@
 
 ## 代码
 
+Python-100天学习：[可执行文件](https://github.com/blueberryc/Python-100-Days/blob/master/Python-100-Days.ipynb)
+
+请下载食用...
 
 
 ## 笔记
+
+Python-100天学习：[可参考文件](https://github.com/blueberryc/Python-100-Days/blob/master/markdown/Python-100-Days.md)
+
+请点击查看...
